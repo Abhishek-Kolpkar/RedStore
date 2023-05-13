@@ -1,10 +1,10 @@
 
 # RedStore - E-commerce site UI
+### This is a multipage responsive e-commerce website UI.
 
-Fully desktop and mobile responsive website using HTML-CSS
+## Demo Site: <a href='https://redstore-store.netlify.app/'>Live Preview</a>
 
-
-## Demo
-
-RedStore Website Live Preview - https://redstore-ecommerce-site-ui.netlify.app
-
+## Tech-Stack :
+* HTML
+* CSS
+* JavaScript  [for toggle menu-bar]
